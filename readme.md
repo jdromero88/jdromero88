@@ -1,6 +1,6 @@
 # Ta peguahẽ porãite - Bienvenido - Welcome
 
-![José Romero Info](/img/Jose-Romero-neofetch.png)
+![José Romero Info](https://josedromero.com/images/Jose-Romero-neofetch.png)
 _________________
 I am a Full-Stack developer with a passion for developing of all types, and sizes.
 
