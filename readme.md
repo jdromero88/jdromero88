@@ -12,7 +12,7 @@ I have vast experience teams and creating an environment that encourages extraor
 Dependable and always willing to take on any task and learn something new.
 
 _________________
-![GitHub Logo](https://media.giphy.com/media/1C8bHHJturSx2/source.gif)
+![José Romero Info](https://media.giphy.com/media/1C8bHHJturSx2/source.gif)
 _________________
 ## You are the visitor \#
 ![Visitor Count](https://profile-counter.glitch.me/{jdromero88}/count.svg)
