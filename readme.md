@@ -1,4 +1,4 @@
-# Ta peguahẽ porãite - Bienvenido - Welcome
+# Tapeguahẽ porãite - Bienvenido - Welcome
 
 ![José Romero Info](https://josedromero.com/images/Jose-Romero-neofetch.png)
 _________________
