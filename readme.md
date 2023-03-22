@@ -1,6 +1,6 @@
 # Tapeguahẽ porãite - Bienvenido - Welcome
 
-![José Romero Info](https://raw.githubusercontent.com/jdromero88/jdromero88/master/img/Jose-Romero-neofetch.png
+![José Romero Info](https://raw.githubusercontent.com/jdromero88/jdromero88/master/img/Jose-Romero-neofetch.png)
 _________________
 I am a Full-Stack developer with a passion for developing of all types, and sizes.
 With experience in Ruby on Rails, JavaScript, and React and a background in Computer Engineering.
